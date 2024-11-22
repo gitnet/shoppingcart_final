@@ -1,0 +1,196 @@
+/* Container for all products */
+.Products {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(100px, 400px));
+    justify-content: center;
+    gap: 20px;
+}
+
+.filterSide {
+    margin-right: 3px;
+}
+
+.dropdownfilter {
+    width: 130px;
+    height: 24px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    color: #6a6a6a;
+    transition: all 0.3s ease;
+    outline: none;
+    cursor: pointer;
+}
+
+.dropdownfilter:focus {
+    border: 1px solid #777;
+    box-shadow: 0 0 8px #aaa;
+}
+
+/* Placeholder Option */
+.dropdownfilter option:first-child {
+    color: gray;
+}
+
+
+.dropdownfilter:hover {
+    border: 1px solid #777;
+}
+
+/* Individual product card */
+.card {
+    margin: 0;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: silver 0px 0px 10px 0px;
+    /* #bee4ff */
+}
+
+.card img {
+    width: 100%;
+}
+
+.infoDate {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.BuyButton {
+    margin-top: auto;
+    /* Push the button to the bottom */
+    text-align: center;
+}
+
+.BuyButton button {
+    position: relative;
+    height: 28px;
+    width: 100px;
+    background-color: #383838;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: background-color 0.3s;
+    float: right;
+    margin-bottom: 13px;
+    margin-right: 13px;
+}
+
+.BuyButton span,
+.BuyButton svg {
+    position: absolute;
+    transform: translateY(-50%);
+}
+
+.BuyButton svg {
+    left: 8px;
+    font-size: 13px;
+}
+
+.BuyButton span {
+    top: 15px;
+    right: 10px;
+}
+
+.BuyButton button:hover {
+    background-color: #0056b3;
+    /* Darker blue on hover */
+}
+
+/* Product information (title and price) */
+.infoDate {
+    padding: 0 12px;
+    text-align: center;
+}
+
+.infoDate .title {
+    font-size: 0.95rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+    text-decoration: none;
+    display: block;
+    transition: color 0.3s;
+    height: 14px;
+}
+
+.infoDate .title:hover {
+    color: #007BFF;
+    /* Highlight on hover */
+}
+
+.infoDate .price {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 5px;
+    font-weight: bold;
+    padding: 18px;
+}
+
+/* Links styling */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 69fr auto 28fr;
+    align-items: center;
+    justify-items: end;
+    margin-bottom: 25px;
+}
+
+.search_c {
+    box-sizing: border-box;
+    padding-right: 1px;
+}
+
+.search_c input {
+    width: 260px;
+    height: 20px;
+    font-size: 14px;
+    padding-left: 6px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.search_c input:focus {
+    outline: none;
+    border: 1.2px solid #777;
+    box-shadow: 0 0 8px #aaa;
+}
+
+@media (max-width: 1100px) {
+
+    #root {
+        max-width: 950px;
+    }
+
+    .Products {
+        grid-template-columns: repeat(3, minmax(100px, 420px));
+    }
+}
+
+@media (max-width: 850px) {
+
+    #root {
+        max-width: 700px;
+    }
+
+    .Products {
+        grid-template-columns: repeat(2, minmax(100px, 420px));
+    }
+}
+
+@media (max-width: 600px) {
+
+    #root {
+        max-width: 450px;
+    }
+
+    .Products {
+        grid-template-columns: repeat(1, minmax(100px, 360px));
+    }
+}

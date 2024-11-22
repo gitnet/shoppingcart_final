@@ -1,0 +1,90 @@
+:root {
+  --main-bg-color: #ebf7ff;
+}
+
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.nav {
+  width: 175px;
+}
+
+.nav a {
+  color: #333;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.nav_c {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 3px;
+  border-radius: 3px;
+  background-color: var(--main-bg-color);
+}
+
+.nav a:hover {
+  color: black;
+  background-color: #dcf1ff;
+}
+
+.active_tab {
+  margin: 20px 0;
+  padding: 20px 20px 0 20px;
+  background-color: var(--main-bg-color);
+  border-radius: 3px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.display_ib {
+  display: inline-block;
+}
+
+.px10 {
+  padding: 10px 0;
+}
+
+.color_bg {
+  background-color: var(--main-bg-color);
+}
+
+.pimage {
+  width: 160px;
+  height: 200px;
+}
+
+.footer {
+  height: 185px;
+  margin-top: 40px;
+  padding-top: 20px;
+  text-align: center;
+  background-color: var(--main-bg-color);
+}
+
+.footer img {
+  width: 335px;
+}
+
+.footer hr {
+  border: none;
+  height: 1px;
+  max-width: 650px;
+  margin-bottom: 10px;
+  background-color: #ddd;
+}
+
+.logo {
+  float: left;
+  padding: 7px 0 0 10px;
+  font-weight: 600;
+  font-size: 20px;
+}

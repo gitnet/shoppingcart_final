@@ -1,0 +1,314 @@
+[
+    {
+        "id": 21,
+        "title": "501 LEVIS ORIGINAL MISTY LAKE",
+        "price": 329.95,
+        "description": "some description",
+        "category": "men",
+        "subCategory": "jeans",
+        "image": "https://image-resizing.booztcdn.com/levi-men/lsm0050134120_cmedindigowornin.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 22,
+        "title": "568 LOOSE STRAIGHT ERMINE",
+        "price": 419.95,
+        "description": "some description",
+        "category": "men",
+        "subCategory": "jeans",
+        "image": "https://image-resizing.booztcdn.com/levi-men/lsm2903700800_cbrowns.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 31,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 189.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/selected-homme/sel16095934_cgrey_v180235.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 32,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price": 239.95,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/gant/gan29633727_cespressolightgrey_vnolength.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 41,
+        "title": "2PK LIGHT WOOL SOCK",
+        "price": 109.95,
+        "description": "some description",
+        "category": "men",
+        "subCategory": "socks",
+        "image": "https://image-resizing.booztcdn.com/alpacasocksco/alc0509792_cblack.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 42,
+        "title": "ESSENTIAL ANKLE SOCK 5p",
+        "price": 199.95,
+        "description": "some description",
+        "category": "men",
+        "subCategory": "socks",
+        "image": "https://image-resizing.booztcdn.com/bjorn-borg/bbo10001229_cmultipack1_vmp001.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 51,
+        "title": "GRApito Light Grey",
+        "price": 249.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "pants",
+        "image": "https://image-resizing.booztcdn.com/grunt/unt2413115_clightgrey.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 52,
+        "title": "Levi's® Velour Wide Pants",
+        "price": 239.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "pants",
+        "image": "https://image-resizing.booztcdn.com/levis-kids/lksj127_cred_vr8e.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 521,
+        "title": "Amor",
+        "price": 399.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "pants",
+        "image": "https://image-resizing.booztcdn.com/molo/mol1s24i110_csandy_v8787.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 522,
+        "title": "Wide Denim-look Pants",
+        "price": 199.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "pants",
+        "image": "https://image-resizing.booztcdn.com/petit-by-sofie-schnoor/pbsp241415_cantiquewhite_v0118.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 53,
+        "title": "GROOVY 2.0",
+        "price": 699.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/superfit/sup1106316_crose_v5500.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 54,
+        "title": "ROOT TEX JR",
+        "price": 599.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/hummel/hu215422_cblackirismarshmallow.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 55,
+        "title": "MONOFIT BOOT Minnie I",
+        "price": 399.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/adidas-sportswear/asrie6023_cpnkfusftwwhtmaroon.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 56,
+        "title": "Adventskalender Babblarna",
+        "price": 349.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "toys",
+        "image": "https://image-resizing.booztcdn.com/egmont-sweden/esn410098_cmulti.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 57,
+        "title": "Min första järnväg – Batteridriven",
+        "price": 244.95,
+        "description": "some description",
+        "category": "kids",
+        "subCategory": "toys",
+        "image": "https://image-resizing.booztcdn.com/brio/bri33710_cmulticoloured.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 61,
+        "title": "C_MARLENE HR HF",
+        "price": 156.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "jeans",
+        "image": "https://image-resizing.booztcdn.com/boss-orange/boo50520936_cdarkblue_v406.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 62,
+        "title": "Thea Wide Leg Tweed Jeans",
+        "price": 239.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "jeans",
+        "image": "https://image-resizing.booztcdn.com/fabienne-chapot/fctcltjns19aw243622_cdarkindigo.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 63,
+        "title": "Marija jeans wash Washington",
+        "price": 184.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "jeans",
+        "image": "https://image-resizing.booztcdn.com/pieszak/pieb4005_cdenimblue_v51.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 64,
+        "title": "Eva Flare Trousers",
+        "price": 199.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "jeans",
+        "image": "https://image-resizing.booztcdn.com/fabienne-chapot/fctclttrs01aw246312_ccerisered.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 71,
+        "title": "Serena Black 1367",
+        "price": 219.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/billi-bi/bbia5037_cblackpolido_v900.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 72,
+        "title": "RHBrisbane Shearling short boots",
+        "price": 184.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "shoes",
+        "image": "https://image-resizing.booztcdn.com/rosemunde/rosh0227_calmond.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 81,
+        "title": "LANA SHOULDER BAG 23",
+        "price": 389.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "bags",
+        "image": "https://image-resizing.booztcdn.com/coach/oaccr674_cbrown.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 82,
+        "title": "Solid Kayna Bag",
+        "price": 329.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "bags",
+        "image": "https://image-resizing.booztcdn.com/becksondergaard/bes0000426600_cblack_v010.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 83,
+        "title": "Suede Iris Bag",
+        "price": 79.99,
+        "description": "some description",
+        "category": "women",
+        "subCategory": "bags",
+        "image": "https://image-resizing.booztcdn.com/becksondergaard/bes2407200011_chotfudgebrown_v7050.webp?has_grey=1&has_webp=1&size=w400",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    }
+]
